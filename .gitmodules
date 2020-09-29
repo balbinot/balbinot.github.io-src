@@ -4,3 +4,6 @@
 [submodule "themes/Peli-Kiera"]
 	path = themes/Peli-Kiera
 	url = git@github.com:balbinot/Peli-Kiera
+[submodule "pelican-plugins"]
+	path = pelican-plugins
+	url = git@github.com:getpelican/pelican-plugins
