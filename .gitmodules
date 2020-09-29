@@ -1,3 +1,6 @@
 [submodule "output"]
 	path = output
 	url = git@github.com:balbinot/balbinot.github.io.git
+[submodule "themes/Peli-Kiera"]
+	path = themes/Peli-Kiera
+	url = git@github.com:balbinot/Peli-Kiera
