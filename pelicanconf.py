@@ -2,19 +2,31 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = "Eduardo Balbinot"
-SITENAME = 'Eduardo Balbinot homepage'
+SITENAME = 'Eduardo Balbinot'
 SITEURL = ''
-
+SITESUBTITLE = 'Where I put stuff for people to know'
 PATH = 'content'
 
 TIMEZONE = 'Europe/Paris'
-
 DEFAULT_LANG = 'en'
 
 THEME = 'themes/Peli-Kiera'
 
+SATIC_PATHS=['images']
+
 PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['readtime', 'neighbors']
+SUMMARY_MAX_LENGTH = 60
+DEFAULT_PAGINATION = 10
+#GITHUB_URL = 'https://github.com/' ## Add a github ribbon on top right for source code url
+
+ARTICLE_EXCLUDES = ['templates'] ## ignore this directory for content
+#TEMPLATE_PAGES = {
+#    'templates/page.html': 'index.html',
+#}
+
+#INDEX_URL = '/index.html'
+#INDEX_SAVEAS = 'pages/index.html'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -31,9 +43,9 @@ LINKS = (('Pelican', 'https://getpelican.com/'),
 
 # Social widget
 SOCIAL = (
+    ('github', 'https://github.com/balbinot'),
     ('twitter', 'https://twitter.com/balbinotdd'),
     ('linkedin', 'https://www.linkedin.com/in/eduardo-balbinot-astro'),
-    ('github', 'https://github.com/balbinot'),
     ('facebook', 'https://facebook.com/eduardo.balbinot.77'),
 )
 DEFAULT_PAGINATION = 10
