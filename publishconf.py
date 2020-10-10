@@ -17,13 +17,10 @@ FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
 
 
-print(DIRECT_TEMPLATES)
-
-
 ## This false prevents my output submodule info from being deleted every publish
 DELETE_OUTPUT_DIRECTORY = False
 
 # Following items are often useful when publishing
 
 #DISQUS_SITENAME = ""
-#GOOGLE_ANALYTICS = ""
+GOOGLE_ANALYTICS = "UA-7340762-7"
