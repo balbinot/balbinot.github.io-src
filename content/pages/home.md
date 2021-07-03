@@ -4,7 +4,7 @@ status: hidden
 save_as: index.html
 
 
- ![Title]({static}/images/me.jpg#float-right "")
+ ![Title](/images/me.jpg#float-right)
 I am an astrophysicist based at the Kapteyin Institute at the University of
 Groningen. As a postdoc in Prof. Amina Helmi's group I work with resolved stellar
 populations in the nearby Universe. I mainly use statistical tools to mine for
