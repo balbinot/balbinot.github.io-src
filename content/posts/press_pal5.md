@@ -3,17 +3,18 @@ Date: 2020-07-03 10:30
 Category: Press
 Summary: Palomar 5 BH press release
 Cover: /images/press/Pal5_press_radec.png
+Template: article_noinfo
 slug:pal5-bh
 
 Here you can find some press release material related to the publication
 
-## [A supra-massive population of stellar-mass black holes in the globular cluster Palomar 5](https://ui.adsabs.harvard.edu/abs/2021arXiv210211348G/abstract)
+### [A supra-massive population of stellar-mass black holes in the globular cluster Palomar 5](https://ui.adsabs.harvard.edu/abs/2021arXiv210211348G/abstract)
 
-Mark Gieles (ICREA, Bercelona) <br />
+Mark Gieles (ICREA, University of Bercelona) <br />
 Denis Erkal (University of Surrey) <br />
 Fabio Antonini (Cardiff University) <br />
 Eduardo Balbinot (University of Groningen) <br />
-Jorge Peñarrubia (The Royal Observatory, Edinburgh)
+Jorge Peñarrubia (University of Edinburgh)
 
 > Palomar 5 is one of the sparsest star clusters in the Galactic halo and is
 > best-known for its spectacular tidal tails, spanning over 20 degrees across the
@@ -36,8 +37,9 @@ The paper pre-print can be found [here](https://arxiv.org/abs/2102.11348).
 
 Below is a all sky view in galactic coordinates. The number of stars is higher
 in brighter regions. Most of the image, where the Milky Way plane is visible (b
-= 0 degrees) is produces using [Gaia eDR3](https://sci.esa.int/web/gaia/-/28820-summary) data. The small patch in the
-top-centre shows a region where deeper [DESI Legacy Imaging Survey
+= 0 degrees) is produces using [Gaia
+eDR3](https://sci.esa.int/web/gaia/-/28820-summary) data. The small patch in
+the top-centre shows a region where deeper [DESI Legacy Imaging Survey
 (DECals)](https://www.legacysurvey.org/dr9/description/) data is available,
 which allows for Palomar 5 and its tidal tails to be seen.
 
@@ -61,7 +63,7 @@ paper](https://ui.adsabs.harvard.edu/abs/2020ApJ...889...70B/abstract).
 ### Night sky view
 
 If we were able to see the very faint stars of Palomar 5 and its tidal tails,
-they would look like the image bellow. We represent stars as circles with size
+they would look like the image below. We represent stars as circles with size
 proportional to their brightness and colour proportional to their true colour.
 In this figure we heavily filtered
 Palomar 5 stars from the interloping background of regular Milky Way stars
@@ -71,7 +73,4 @@ using the matched-filter technique [Balbinot et al.
 
 [![Nightview](/images/press/Pal5_press_nightview.png)](/images/press/Pal5_press_nightview.png)
 [PDF version]({filename}/images/press/Pal5_press_nightview.pdf)
-
-
-Some text
 

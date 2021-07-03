@@ -3,6 +3,7 @@ Date: 2019-12-13 10:30
 Category: Press
 Summary: Phoenix stream is very metal poor
 Cover: /images/press/Phoenix_histogram.png
+status: hidden
 
 [![Metallicity histogram]({attach}/images/press/Phoenix_histogram.png)]({attach}/images/press/Phoenix_histogram.png)
 
