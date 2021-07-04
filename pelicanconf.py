@@ -15,8 +15,8 @@ THEME = 'themes/Peli-Kiera'
 SATIC_PATHS=['images']
 
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['readtime', 'neighbors', 'advthumbnailer', 'better_figures_and_images']
-
+PLUGINS = ['readtime', 'neighbors',  'advthumbnailer']
+#'better_figures_and_images',
 RESPONSIVE_IMAGES = True
 FIGURE_NUMBERS = True
 
