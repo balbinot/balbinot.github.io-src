@@ -6,7 +6,7 @@ Cover: /images/press/Pal5_press_radec.png
 Template: article_noinfo
 slug:pal5-bh
 
-Mark Gieles (ICREA, University of Bercelona) <br />
+Mark Gieles (ICREA, University of Barcelona) <br />
 Denis Erkal (University of Surrey) <br />
 Fabio Antonini (Cardiff University) <br />
 Eduardo Balbinot (University of Groningen) <br />
@@ -32,7 +32,7 @@ The paper pre-print can be found [here](https://arxiv.org/abs/2102.11348).
 
 Below is a all sky view in galactic coordinates. The number of stars is higher
 in brighter regions. Most of the image, where the Milky Way plane is visible (b
-= 0 degrees) is produces using [Gaia
+= 0 degrees), is produced using [Gaia
 eDR3](https://sci.esa.int/web/gaia/-/28820-summary) data. The small patch in
 the top-centre shows a region where deeper [DESI Legacy Imaging Survey
 (DECaLS)](https://www.legacysurvey.org/dr9/description/) data is available,
