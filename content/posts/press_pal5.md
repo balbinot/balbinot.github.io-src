@@ -91,10 +91,10 @@ Data from DECaLS. <a href=/static/images/press/Pal5_press_nightview.pdf'>PDF ver
 
 <div class="figure" style="width: 100%">
 <center>
-<iframe align='center' width="560" height="315" src="https://www.youtube.com/embed/OiF2SYa4jWw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe align='center' width="100%" height=360px src="https://www.youtube.com/embed/OiF2SYa4jWw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 <p class="figcaption" align='right'>
-Simulation of Palomar 5 showing the formation of its tidal tails and the distribution of black holes. This video will be availabe from July 6th 2021 after 5pm (CEST).
+Simulation of Palomar 5 showing the formation of its tidal tails and the distribution of black holes. This video will be availabe from July 5th 2021 after 5pm (CEST).
 </p>
 </div>
 
