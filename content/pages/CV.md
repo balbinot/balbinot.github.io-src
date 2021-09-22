@@ -21,7 +21,7 @@ Gaia and near-future spectroscopic surveys, such as WEAVE and 4MOST.
 
 ## Curriculum vitae
 
-My CV in <a href=/static/images/press/Pal5_press_nightview.pdf'>PDF format</a>
+My CV in <a href=/static/images/CV_EB.pdf'>PDF format</a>
 
 My probably more up-to-date ADS publication list
 [here](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=OR&filter_database_fq_database=database%3A%22astronomy%22&format=SHORT&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&q=author%3A(%22balbinot%2C%20eduardo%22)&sort=score%20desc%2C%20bibcode%20desc&unprocessed_parameter=qform&unprocessed_parameter=adsobj_query&p_=0)
