@@ -52,6 +52,7 @@ SOCIAL = (
     ('twitter', 'https://twitter.com/balbinotdd'),
     ('linkedin', 'https://www.linkedin.com/in/eduardo-balbinot-astro'),
     ('facebook', 'https://facebook.com/eduardo.balbinot.77'),
+    ('orcid', 'https://orcid.org/0000-0002-1322-3153'),
 )
 DEFAULT_PAGINATION = 10
 
