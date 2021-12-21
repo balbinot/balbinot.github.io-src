@@ -1,8 +1,8 @@
 Title: Globular cluster orbits
 Date: 2021-10-05 10:30
 Category: Code
-Summary: 
-Cover: https://raw.githubusercontent.com/balbinot/GCorbits/main/GC_orbits.png
+Summary: A simple code showcasing the orbit of globular clusters in the Galaxy integrated using some cool python libraries. Done for fun, but turned out to be useful. 
+Cover: /images/code/thumbnails/200x200/GC_orbits.png
 Template: article
 slug:GCorbits
 
